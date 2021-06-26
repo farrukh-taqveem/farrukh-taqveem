@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @farrukh-taqveem
+- 👀 I’m interested in Problem Solving, Systems Programming, Data Science. 
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on a package or library or any project that makes lives easier.
+- 📫 Email me: farrukh.taqveem@gmail.com
